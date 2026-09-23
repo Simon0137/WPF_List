@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WPF_List.Core/WPF_List.Core.csproj" />
+  <Project Path="WPF_List.Wpf/WPF_List.Wpf.csproj" />
+</Solution>
